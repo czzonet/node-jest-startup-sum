@@ -2,8 +2,24 @@
   "name": "node-jest-startup-sum",
   "version": "1.0.0",
   "main": "dist/index.js",
+  "files": [
+    "dist/"
+  ],
   "author": "czzonet <czzonet@163.com>",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/czzonet/node-jest-startup-sum.git"
+  },
+  "keywords": [
+    "node-jest-startup-sum",
+    "npm",
+    "typescript"
+  ],
+  "bugs": {
+    "url": "https://github.com/czzonet/node-jest-startup-sum/issues"
+  },
+  "homepage": "https://github.com/czzonet/node-jest-startup-sum#readme",
   "scripts": {
     "run": "tsc && node ./dist/index.js",
     "test": "jest"
