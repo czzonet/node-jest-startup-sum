@@ -6,7 +6,7 @@
     "dist/"
   ],
   "author": "czzonet <czzonet@163.com>",
-  "license": "MIT",
+  "license": "Apache-2.0",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/czzonet/node-jest-startup-sum.git"
