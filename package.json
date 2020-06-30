@@ -1,0 +1,19 @@
+{
+  "name": "node-jest-startup-sum",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "author": "czzonet <czzonet@163.com>",
+  "license": "MIT",
+  "scripts": {
+    "run": "tsc && node ./dist/index.js",
+    "test": "jest"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.10.3",
+    "@babel/preset-env": "^7.10.3",
+    "@babel/preset-typescript": "^7.10.1",
+    "@types/jest": "^26.0.3",
+    "babel-jest": "^26.1.0",
+    "jest": "^26.1.0"
+  }
+}
