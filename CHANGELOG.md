@@ -1,3 +1,3 @@
-## 1.0.4
+## 1.0.0
 
-- Added license file
+- Init
